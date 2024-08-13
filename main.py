@@ -8,7 +8,7 @@ app = FastAPI()
 
 # Load the trained model from the file
 try:
-    with open("/Users/raj/Desktop/DVC/project/model.pkl", "rb") as model_file:
+    with open("model.pkl", "rb") as model_file:
         model = pickle.load(model_file)
         # Check if the loaded model is a RandomForestClassifier
         if not isinstance(model, RandomForestClassifier):
