@@ -82,10 +82,6 @@ mysqlclient==2.2.0
 neattext==0.1.3
 networkx==3.2.1
 numpy==1.26.4
-omegaconf==2.3.0
-orjson==3.10.4
-packaging==24.1
-pandas==2.2.2
 ydata-profiling==4.5.1
 pathspec==0.12.1
 pconst==1.0.0
@@ -111,7 +107,6 @@ python-dotenv==1.0.1
 python-multipart==0.0.9
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
-pywin32==306
 PyYAML==6.0.1
 requests==2.32.3
 rich==13.3.4
