@@ -110,7 +110,6 @@ python-dotenv
 python-multipart
 pytz
 pytz-deprecation-shim
-pywin32
 PyYAML
 requests
 rich
