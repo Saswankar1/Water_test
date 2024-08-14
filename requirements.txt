@@ -91,7 +91,7 @@ prompt_toolkit==3.0.47
 psutil==5.9.8
 pyarrow==11.0.0
 pycparser==2.22
-pydantic==2.7.3
+pydantic==1.10.12   # Downgraded to be compatible with all dependencies
 pydantic-extra-types==2.8.0
 pydantic-settings==2.3.1
 pydantic_core==2.18.4
