@@ -7,9 +7,9 @@ Full Code: [Water Potability Repo](https://github.com/Saswankar1/Water-Potabilit
 
 ## Files in the Repository
 
-- **model.pkl**: The trained machine learning model saved as a pickle file.
-- **main.py**: The main application script that loads the model and handles predictions.
-- **requirements.txt**: A list of Python dependencies required to run the application.
+- [model.pkl](model.pkl): The trained machine learning model saved as a pickle file.
+- [main.py](main.py): The main application script that loads the model and handles predictions.
+- [requirements.txt](requirements.txt): A list of Python dependencies required to run the application.
 
 ## Setup and Installation
 
