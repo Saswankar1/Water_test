@@ -65,14 +65,4 @@ To deploy this application on Render, follow these steps:
 
 5. **Deploy the service**. Render will automatically detect the necessary files and start the application.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or issues, feel free to open an issue on this repository or contact me directly.
-
-```
-
 You can modify the URLs, paths, and other details to match your specific setup and repository.
