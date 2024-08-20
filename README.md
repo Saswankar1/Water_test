@@ -1,5 +1,5 @@
 
-# Water_test
+# Water test
 
 This repository contains a machine learning model used for water potability. The model is deployed using Render, a cloud application platform. The repository includes the trained model, the main application script, and the dependencies required to run the model.
 
