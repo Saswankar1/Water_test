@@ -65,4 +65,4 @@ To deploy this application on Render, follow these steps:
 
 5. **Deploy the service**. Render will automatically detect the necessary files and start the application.
 
-You can modify the URLs, path, and other details to match your specific setup and repository.
+You can modify the URLs, the path, and other details to match your specific setup and repository.
